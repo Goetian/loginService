@@ -1,0 +1,3 @@
+/home/goec/Documents/dev/cpp/dbtest/out/build/CMakeFiles/main.dir
+/home/goec/Documents/dev/cpp/dbtest/out/build/CMakeFiles/edit_cache.dir
+/home/goec/Documents/dev/cpp/dbtest/out/build/CMakeFiles/rebuild_cache.dir
